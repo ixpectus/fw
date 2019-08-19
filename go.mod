@@ -1,4 +1,4 @@
-module fw
+module github.com/ixpectus/fw
 
 go 1.12
 
